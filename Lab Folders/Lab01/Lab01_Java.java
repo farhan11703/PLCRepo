@@ -1,11 +1,12 @@
 //Lab01 Java file
 // Sample Java file
-// Edit made by farhan_220069629
+
 void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
-  //Edit made by Student X in GitPod
+  //Edit made by farhan_220069629
+  //Edit made by farhan_220069629 in GitPod
 
 
   //Last line print('Good bye')
